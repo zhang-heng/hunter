@@ -9,11 +9,11 @@ hunter_add_version(
     PACKAGE_NAME
     PocoCpp
     VERSION
-    1.7.9-p1-a
+    1.8.1-p0
     URL
-    "https://github.com/zhang-heng/poco/archive/v1.7.9-p1-a.tar.gz"
+    "https://github.com/hunter-packages/poco/archive/v1.8.1-p0.tar.gz"
     SHA1
-    675da64bb7a565a8755c37fa29c4c1d1c1792abc
+    53449c936ec001423fd7b3c68458ea1c047ef6c6
 )
 
 
