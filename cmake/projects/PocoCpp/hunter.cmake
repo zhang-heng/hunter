@@ -4,6 +4,19 @@ include(hunter_pick_scheme)
 include(hunter_cacheable)
 include(hunter_download)
 
+
+hunter_add_version(
+    PACKAGE_NAME
+    PocoCpp
+    VERSION
+    1.7.9-p1-a
+    URL
+    "https://github.com/zhang-heng/poco/archive/v1.7.9-p1-a.tar.gz"
+    SHA1
+    675da64bb7a565a8755c37fa29c4c1d1c1792abc
+)
+
+
 hunter_add_version(
     PACKAGE_NAME
     PocoCpp
